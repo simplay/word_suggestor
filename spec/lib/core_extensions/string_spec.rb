@@ -17,5 +17,4 @@ describe String do
         should be_a(Integer)
     end
   end
-
 end
