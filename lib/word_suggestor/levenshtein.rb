@@ -1,0 +1,3 @@
+class WordSuggestor::Levenshtein
+  
+end
