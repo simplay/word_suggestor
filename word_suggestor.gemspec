@@ -7,9 +7,9 @@ Gem::Specification.new do |gem|
   gem.name          = "word_suggestor"
   gem.version       = WordSuggestor::VERSION
   gem.authors       = ["simplay"]
-  gem.email         = ["michael.single@students.unibe.ch"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["silent.simplay@gmail.com"]
+  gem.description   = %q{Find the best matching string}
+  gem.summary       = %q{Compare strings using the levenshtein distance.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)

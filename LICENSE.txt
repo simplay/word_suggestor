@@ -1,4 +1,4 @@
-Copyright (c) 2013 simplay
+Copyright (c) 2013-2016 simplay
 
 MIT License
 
